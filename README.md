@@ -1,2 +1,3 @@
 # ayushi-demo
 this is my first  gib repository
+AUTHOR - ayushi dwivedi
